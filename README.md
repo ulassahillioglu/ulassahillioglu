@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulassahillioglu&label=Profile%20views&color=0e75b6&style=flat" alt="ulassahillioglu" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Shop**
+- 🔭 I’m currently working on **E-Commerce Shop App**
 
 - 🌱 I’m currently learning **PHP-Laravel**
 
